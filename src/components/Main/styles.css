@@ -1,0 +1,14 @@
+.main__section{
+    background: #36ba60;
+    box-shadow: 0 0 10px #45ce70;
+    border-radius: 12px;
+    text-align: center;
+    color: #fff;
+    padding: 52px 24px;
+}
+.main__section h1{
+    font-size: 40px;
+}
+.main__section p{
+    font-size: 18px;
+}

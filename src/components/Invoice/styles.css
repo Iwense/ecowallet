@@ -1,0 +1,17 @@
+.wrapper{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 0 8px rgba(95, 95, 95, 0.1);
+    margin-top: 12px;
+    border-radius: 4px;
+    color: #050505;
+}
+.wrapper p{
+    padding: 12px 4px;
+}
+.product__price{
+    font-weight: 600;
+    color: #36ba60;
+}
